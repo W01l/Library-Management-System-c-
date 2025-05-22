@@ -1,6 +1,6 @@
 # Library-Management-System-c-
 
-##Project Overview:
+## Project Overview:
 
 The Library Management System is a console-based application 
 developed in QT using C++ library and functions that allows
