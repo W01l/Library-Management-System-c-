@@ -36,4 +36,4 @@ and software development.
 
 
 ## Lincense:
-This project is under the licence of README.md
+This project is under the licence of LICENSE
