@@ -35,4 +35,5 @@ It provides a solid foundation for further learning and improvement in C++
 and software development.
 
 
-Lincense:
+## Lincense:
+This project is under the licence of README.md
