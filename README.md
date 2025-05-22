@@ -9,7 +9,7 @@ The system enables students to access the library data by
 logging in to their accounts. The system supports adding, 
 editing, and viewing books.
 
-Key Features:
+## Key Features:
 
 User Authentication: The system provides a login option for 
 both other users and students, protected by a password.
@@ -20,7 +20,7 @@ Facilitator Functions:
    of whether the book is borrowed or not.
 
 
-Implementation Details:
+## Implementation Details:
 
 The application is implemented inQt using C++. It employs functions, loops, 
 if-else, and switch operators to achieve the desired functionality. 
